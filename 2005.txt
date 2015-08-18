@@ -1,0 +1,22 @@
+From dietmar.lippold at informatik.uni-stuttgart.de  Wed Apr 20 12:08:45 2005
+From: dietmar.lippold at informatik.uni-stuttgart.de (Dietmar Lippold)
+Date: Wed, 20 Apr 2005 12:08:45 +0200 (CEST)
+Subject: [Nereus-announce] =?iso-8859-1?Q?beta-Version_verf=FCgbar?=
+Message-ID: <200504201008.MAA15256@isis.informatik.uni-stuttgart.de>
+
+Hallo,
+
+eine beta-Version der Software ist jetzt im Subversion-Repository
+verf?gbar. Die Struktur wird sich aber noch in einigen Punkten ?ndern.
+
+   Viele Gr??e
+    Dietmar Lippold
+
+-- 
+Dietmar Lippold, Institut IS, Universit?t Stuttgart
+Raum 1.461, Universit?tsstra?e 38,  70569 Stuttgart
+Tel.: 0711 / 7816 - 435;     Fax: 0711 / 7816 - 340
+E-Mail: dietmar.lippold at informatik.uni-stuttgart.de
+
+
+
